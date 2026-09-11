@@ -1,2 +1,2 @@
 ﻿Write-Host "Hello, World!"
-Read-Host
+Read-Host "Druecke Enter zum Beenden"
